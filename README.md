@@ -1,4 +1,4 @@
-# SimpleToDo — Java Swing To-Do App
+# TodoApp — Java Swing To-Do App
 
 A simple **To-Do List desktop application** built using **Java Swing**.  
 It demonstrates the use of Swing components like `JFrame`, `JTextField`, `JButton`, `JList`, and `DefaultListModel` to build a basic GUI app.
